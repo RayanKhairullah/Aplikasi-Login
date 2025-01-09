@@ -3,7 +3,7 @@
 kalimat heading (==)
 --
 sub heading(--)
-tulisan miring (*)*.
+*tulisan miring (*)*.
 - list item (-)
 
 
